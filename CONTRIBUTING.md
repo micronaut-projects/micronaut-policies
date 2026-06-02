@@ -1,3 +1,4 @@
+# Contributing to Micronaut 
 Contributors must abide by the [Intellectual Property](INTELLECTUAL_PROPERTY.md) policy and sign the [Contributor License Agreement](CONTRIBUTOR_LICENSE_AGREEMENT.md). This is required before any code or pull requests are accepted.
 
 Contributions are made via [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) and merged by the [Micronaut Core Developer Team](https://github.com/orgs/micronaut-projects/teams/core-developers).
