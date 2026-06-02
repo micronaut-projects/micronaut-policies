@@ -1,15 +1,17 @@
 # Micronaut Policies
 
 ## [Governance](GOVERNANCE.md)
-## [Maintainers and Points of Contact](MAINTAINERS.md)
+## [Maintainers](MAINTAINERS.md)
+## [Points of Contact](POINTS_OF_CONTACT.md)
 ## [Contributing](CONTRIBUTING.md)
-## [Planning](PLANING.md)
+## [Planning](PLANNING.md)
 ## [Software Versioning](VERSIONS_POLICY.md)
-## [Release Cadence](REALEASE_CADENCE.md)
+## [Release Management](RELEASE_MANAGEMENT.md)
+## [Release Cadence](RELEASE_CADENCE.md)
+## [Conflict Resolution](CONFLICT.md)
 ## [Security Advisory Disclosure](SECURITY_ADVISORY_DISCLOSURE.md)
 ## [Code of Conduct](CODE_OF_CONDUCT.md)
 ## [Intellectual Property](INTELLECTUAL_PROPERTY.md)
 ## [Contributor License Agreement](CONTRIBUTOR_LICENSE_AGREEMENT.md)
 ## [Assets](ASSETS.md)
-
-
+## [Succession Planning](SUCCESSION.md)
