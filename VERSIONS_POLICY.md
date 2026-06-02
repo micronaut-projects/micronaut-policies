@@ -1,3 +1,5 @@
+# Micronaut Versioning
+
 Micronaut follows [semantic versioning](https://semver.org/).
 
 Micronaut components are versioned according to the following scheme:
