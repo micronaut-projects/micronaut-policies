@@ -1,24 +1,22 @@
 # Intellectual Property Policy
 
-Micronaut source code is licensed under [The Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+Micronaut source code is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 ## Project Documentation License
 
-Micronaut non-code content like documentation and images. Documentation accessible via [docs.micronaut.io](https://docs.micronaut.io) or step-by-step tutorials accessible via [guides.micronaut.io](https://guides.micronaut.io) [are licensed under [Creative Commons By 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).   
+Micronaut non-code content, such as documentation, image files, and audiovisual files (e.g., .txt, .rtf, .doc, .pdf, .jpg, .tif, .mp3, .wav, and some .html files), is licensed under [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en). This includes documentation available at [docs.micronaut.io](https://docs.micronaut.io) and step-by-step tutorials available at [guides.micronaut.io](https://guides.micronaut.io).
 
-A CF Project may define a "" to cover all documentation, image, and audiovisual files (e.g., .txt., .rtf, .doc, .pdf, .jpg, .tif, .mp3, .wav, and some .html files) (including without limitation 
-
-Code, intended as sample code an embedded in documentation is licensed under [The Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+Code intended as sample code and embedded in documentation is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 ## Contributions
 
-All new code contributions to any Micronaut repository must be made under [The Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+All new code contributions to any Micronaut repository must be made under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
-Contributions must be accompanied a Contributor License Agreement (CLA). The CLA binds the individual contributor and, if applicable, their employer to the [The Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+Contributions must be accompanied by a Contributor License Agreement (CLA). The CLA binds the individual contributor and, if applicable, their employer to the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 ## Copyright Statements
 
-Source code which will be distributed (for example, source code in the main classpath for a Java library), should contain the following copyright statement in the beginning of the file. 
+Source code that will be distributed (for example, source code on the main classpath of a Java library) should contain the following copyright statement at the beginning of the file.
 
 ```
 /*
@@ -39,4 +37,4 @@ Source code which will be distributed (for example, source code in the main clas
 package io.micronaut.aop;
 ```
 
-Source code used for test or documentation does not need to contain the previous copyright statement. 
+Source code used for tests or documentation does not need to contain the previous copyright statement.
