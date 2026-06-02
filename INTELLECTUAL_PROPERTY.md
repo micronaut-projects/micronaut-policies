@@ -12,7 +12,7 @@ Code intended as sample code and embedded in documentation is licensed under the
 
 All new code contributions to any Micronaut repository must be made under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
-Contributions must be accompanied by a Contributor License Agreement (CLA). The CLA binds the individual contributor and, if applicable, their employer to the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+Contributions must be accompanied by a signed [Contributor License Agreement (CLA)](CONTRIBUTOR_LICENSE_AGREEMENT.md). Contributor will sign the CLA directly via the GitHub user interface. The CLA binds the individual contributor and, if applicable, their employer to the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 ## Copyright Statements
 
