@@ -2,4 +2,5 @@
 
 ## [Maintainers](maintainers.md)
 ## [Code of Conduct](CODE_OF_CONDUCT.md)
-## [Intelectual Property](INTELECTUAL_PROPERTY.md)
+## [Intellectual Property](INTELLECTUAL_PROPERTY.md)
+## [Security Advisory Disclosure](SECURITY_ADVISORY_DISCLOUSURE.md)
