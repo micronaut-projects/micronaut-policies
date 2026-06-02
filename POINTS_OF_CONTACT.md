@@ -43,10 +43,10 @@ Point of contact: [@graemerocher](https://github.com/graemerocher)
 #### [Micronaut Guice](https://github.com/micronaut-projects/micronaut-guice)
 Point of contact: [@graemerocher](https://github.com/graemerocher)
 
-#### [Micronaut Jackson XML](https://github.com/micronaut-projects/micronaut-micronaut-jackson-xml)
+#### [Micronaut Jackson XML](https://github.com/micronaut-projects/micronaut-jackson-xml)
 Point of contact: [@yawkat](https://github.com/yawkat).
 
-#### [Micronaut JAX-RS](https://github.com/micronaut-projects/micronaut-jax-rs)
+#### [Micronaut JAX-RS](https://github.com/micronaut-projects/micronaut-jaxrs)
 Point of contact: [@dstepanov](https://github.com/dstepanov).
 
 #### [Micronaut JSON Schema](https://github.com/micronaut-projects/micronaut-json-schema)
