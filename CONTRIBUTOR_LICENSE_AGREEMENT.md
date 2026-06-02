@@ -1,6 +1,4 @@
-# Micronaut Framework
-
-Individual Contributor License Agreement
+## Micronaut Framework Individual Contributor License Agreement
 
 By signing below, you accept and agree to the following terms and conditions for your present and future contributions submitted to the [Commonhaus Foundation](https://www.commonhaus.org/) in connection with the [Micronaut framework](https://micronaut.io). In return, Commonhaus Foundation shall not use your contributions in a way that is contrary to the public benefit or inconsistent with the Apache License v. 2.0. Except for the license granted herein to Commonhaus Foundation and recipients of software distributed by Commonhaus Foundation, you reserve all right, title, and interest in and to your contributions.
 
