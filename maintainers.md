@@ -1,4 +1,4 @@
-# Micronaut Working Groups
+# Micronaut Maintainers
 
 **Project Lead: [@graemerocher](https://github.com/graemerocher)**
 
