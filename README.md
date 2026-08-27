@@ -4,7 +4,7 @@
 ## [Maintainers](MAINTAINERS.md)
 ## [Points of Contact](POINTS_OF_CONTACT.md)
 ## [Contributing](CONTRIBUTING.md)
-## [Planning](PLANNING.md)
+## [Organization](ORGANIZATION.md)
 ## [Software Versioning](VERSIONS_POLICY.md)
 ## [Release Management](RELEASE_MANAGEMENT.md)
 ## [Release Cadence](RELEASE_CADENCE.md)
